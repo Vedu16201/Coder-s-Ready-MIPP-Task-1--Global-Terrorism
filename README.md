@@ -2,7 +2,13 @@
 
 >  **Task 1 - Global Terrorism**
 
-- **-Objective :As a security/defense analyst,my task is to find out the hot zones of terrorism._**
+- **-Objective :**
+
+- Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
+
+- As a sports analyst, find out the most successful teams, players and factors contributing win or loss of a team.
+
+- Suggest teams or players a company should endorse for its products.
 
 ## TECHNOLOGIES AND LIBRARIES USED:
 
@@ -12,5 +18,5 @@
 
 <p align="center"> <b> 👉🏻 Presented as a part of the Internship @ Coder's Ready 👈🏻 <b> </p>
 
-<p align="center"><a href='https://github.com/Vedu16201/Coder-s-Ready-MIPP-Task-1--Global-Terrorism', style='color: greenyellow;'> ✌🏻 Back To Repository ✌🏻</p>
+<p align="center"><a href='https://github.com/Vedu16201/Coder-s-Ready-MIPP-Task-3---Indian-Premier-League', style='color: greenyellow;'> ✌🏻 Back To Repository ✌🏻</p>
 
