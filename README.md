@@ -12,5 +12,5 @@
 
 <p align="center"> <b> 👉🏻 Presented as a part of the Internship @ Coder's Ready 👈🏻 <b> </p>
 
-<p align="center"><a href='https://github.com/Amey-Thakur/TSF-SUPERVISED-MACHINE-LEARNING', style='color: greenyellow;'> ✌🏻 Back To Repository ✌🏻</p>
+<p align="center"><a href='https://github.com/Vedu16201/Coder-s-Ready-MIPP-Task-1--Global-Terrorism', style='color: greenyellow;'> ✌🏻 Back To Repository ✌🏻</p>
 
